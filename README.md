@@ -3,7 +3,7 @@ AgroX is an intelligent assistant designed to revolutionize how smallholder farm
 
 While most digital agriculture solutions require constant connectivity, AgroX flips the script: offline-first by design, yet smart enough to seamlessly switch to an online mode when a connection is detected. This hybrid approach ensures farmers are never left stranded — no matter where they are.
 
---
+
 
 # 🧠 How It Works
 AgroX combines computer vision, natural language processing, and retrieval-augmented generation (RAG) to assist farmers in real time. A farmer can snap a photo of a crop, describe an issue in their local dialect or English, and AgroX responds with actionable guidance — from identifying pests to recommending fertilizer use.
@@ -12,7 +12,7 @@ Offline mode: All core AI models (plant disease classifier, local text/image que
 
 Online mode: When internet access is available, AgroX enhances responses by tapping into cloud-hosted models and updated agricultural datasets — ensuring recommendations stay current and precise.
 
---
+
 
 # 🛠️ Technology Stack
 
@@ -28,14 +28,14 @@ Online mode: When internet access is available, AgroX enhances responses by tapp
 
 **Online:** Optional API requests to remote LLMs (e.g., Gemma 3n or similar) and cloud services for extended capabilities.
 
---
+
 
 # 🚜 The Vision
 AgroX is not just another farming app. It’s a resilient digital field agent, meant to go wherever the farmer goes — across low-bandwidth zones, remote villages, or flood-affected farms. It speaks the language of the land, works without needing data bundles, and respects the reality of infrastructure limitations.
 
 Whether a farmer needs help diagnosing cassava leaf curl or optimizing irrigation schedules, AgroX aims to deliver support with minimal friction and maximum autonomy.
 
---
+
 
 # 🧪 Current Status
 Development is underway.
@@ -48,7 +48,7 @@ The Flutter frontend is planned, with UI/UX tailored for non-technical users in 
 
 Hybrid connectivity handling is being tested and improved.
 
---
+
 
 # 🌍 Impact Goals
 Empower farmers in underserved regions with AI-backed decisions.
@@ -59,7 +59,7 @@ Close the agricultural advisory gap in places where extension services are scarc
 
 Promote digital inclusion through offline-first design.
 
---
+
 
 # 🤝 Contributions & Collaboration
 If you’re passionate about AI for social impact, Flutter development, or agri-tech innovation, feel free to reach out. AgroX is a community-minded project, and we’re always open to smart contributions.
